@@ -1,0 +1,5 @@
+thanks to 
+Shadowflare for PIC1.png
+Mdave for Skybox and Loadingscreen  (took from kurok 0.4)
+Ferkonet for english sounds (player and clients)
+pl for (english sounds)

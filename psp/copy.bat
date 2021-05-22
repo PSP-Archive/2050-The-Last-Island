@@ -1,0 +1,1 @@
+copy EBOOT.PBP H:\PSP\GAME\2050\*.*
